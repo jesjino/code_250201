@@ -5,7 +5,7 @@
 ### 你好，欢迎访问我的 GitHub！我是 [jesjino]，一名拥有多年开发经验的程序员，涉及多个技术领域，包括但不限于：
 
 
-###### 游戏开发：使用 Unity、Unreal Engine、Cocos 等引擎进行游戏开发，擅长客户端和服务端的开发。
+游戏开发：使用 Unity、Unreal Engine、Cocos 等引擎进行游戏开发，擅长客户端和服务端的开发。
 
 编程语言：熟练掌握 C++、Python、Java、Lua 等多种编程语言。
 
